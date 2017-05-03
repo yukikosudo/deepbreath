@@ -13,7 +13,7 @@
 
 var gmail;
 
-var API_KEY = 'your-api-key'
+var API_KEY = 'AIzaSyCahTlFxMiMf2YzSkHxTzOX2IZ1RHZPY8s'
 
 function refresh(f) {
   if( (/in/.test(document.readyState)) || (typeof Gmail === undefined) ) {
